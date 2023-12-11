@@ -1,4 +1,4 @@
-# text2node
+# MathFrameAssistant
 Generate nodes from abstract syntax grammar
 
 [Abstract Syntax Trees](https://docs.python.org/3.10/library/ast.html#module-ast)
