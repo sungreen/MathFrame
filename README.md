@@ -13,5 +13,7 @@ Generate nodes from abstract syntax grammar
 
 [Property Definitions (bpy.props)](https://docs.blender.org/api/current/bpy.props.html)
 
+[PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
 # Goals
 ## 1 Create a knot diagram using the simple math formulas given in the text, such as X*2 + 1/Y + Z**2.
