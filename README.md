@@ -9,6 +9,8 @@ Generate nodes from abstract syntax grammar
 
 [Node Compare Operation Items](https://docs.blender.org/api/current/bpy_types_enum_items/node_compare_operation_items.html)
 
+[Node Math Items] (https://docs.blender.org/api/current/bpy_types_enum_items/node_math_items.html#node-math-items)
+
 [Node Boolean Math Items](https://docs.blender.org/api/current/bpy_types_enum_items/node_boolean_math_items.html#node-boolean-math-items)
 
 [Property Definitions (bpy.props)](https://docs.blender.org/api/current/bpy.props.html)
